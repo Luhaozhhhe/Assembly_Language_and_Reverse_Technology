@@ -1,1 +1,2 @@
-# Assembly-language-and-reverse-technology
+# NKU-CSSE0026-汇编语言与逆向技术实验报告
+该门课实验较难，前半部分以编写汇编语言代码为主，后半部分以分析汇编语言代码为主，难度较大
